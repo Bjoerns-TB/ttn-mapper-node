@@ -51,8 +51,8 @@ void get_coords () {
 
   if ( newData ) {
     gps.f_get_position(&flat, &flon, &age);
-    faltitudeGPS = gps.f_altitude();; //neu
-    fhdopGPS = gps.hdop(); //neu  
+    faltitudeGPS = gps.f_altitude();
+    fhdopGPS = gps.hdop(); 
     flat = (flat == TinyGPS::GPS_INVALID_F_ANGLE ) ? 0.0 : flat;
     flon = (flon == TinyGPS::GPS_INVALID_F_ANGLE ) ? 0.0 : flon;
   }
