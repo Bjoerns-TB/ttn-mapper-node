@@ -13,5 +13,5 @@ TO CONTRIBUTE TO TTN Mapper:
  4. Make sure packets are arriving on the TTN console when your node is
     powered and in reach of a gateway.
  5. Share your Application ID, Access Key, Device ID and payload format with
-    contribute@ttnmapper.org so that your measurements can be automatically
+    blog@jpmeijers.com so that your measurements can be automatically
     imported into TTN Mapper.
