@@ -1,3 +1,6 @@
+!!This software is obsolete, beecause of the TTN Mapper integration from within TTN console.!!
+!!Please use https://github.com/Bjoerns-TB/ttn-gps-tracker!!
+
 # ttn-mapper-node
 A node with GPS for use with TTN Mapper without the need of a smartphone.
 
